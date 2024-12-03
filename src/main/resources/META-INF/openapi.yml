@@ -1,0 +1,17 @@
+components:
+  schemas:
+    ListOfValues:
+      type: string
+      enum:
+        - Area_condivisa
+        - AC
+        - ADCAM
+        - CNM
+        - IVATR
+        - IRAP
+        - MODIVA
+        - UNIPF
+        - UNISC
+        - UNISB
+        - UNISP
+        - STSET
